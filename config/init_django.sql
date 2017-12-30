@@ -1,0 +1,3 @@
+CREATE DATABASE dataorg_django;
+CREATE USER django WITH PASSWORD 'oTuT1Fae';
+GRANT ALL PRIVILEGES ON DATABASE dataorg_django TO django;

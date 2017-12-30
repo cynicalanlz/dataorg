@@ -1,0 +1,9 @@
+{
+  "name": "dataorg-ws",
+  "version": "0.0.0",
+  "description": "Parse a Dockerfile into a POJO",
+  "main": "index.js",
+  "dependencies": {
+    "dockerfile-parse": "^0.2.0"
+  }
+}

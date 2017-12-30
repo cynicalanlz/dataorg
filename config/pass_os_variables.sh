@@ -1,0 +1,1 @@
+export $(cat .pwd_text | xargs)

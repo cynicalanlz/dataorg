@@ -1,0 +1,5 @@
+retry
+google-api-python-client
+gunicorn
+psycopg2
+django==2.0
